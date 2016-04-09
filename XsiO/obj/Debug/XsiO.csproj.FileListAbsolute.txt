@@ -1,0 +1,10 @@
+c:\users\pc\documents\visual studio 2013\Projects\XsiO\XsiO\bin\Debug\XsiO.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\XsiO\XsiO\obj\Debug\XsiO.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\XsiO\XsiO\obj\Debug\XsiO.Form1.resources
+c:\users\pc\documents\visual studio 2013\Projects\XsiO\XsiO\obj\Debug\XsiO.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2013\Projects\XsiO\XsiO\obj\Debug\XsiO.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2013\Projects\XsiO\XsiO\bin\Debug\XsiO.exe
+c:\users\pc\documents\visual studio 2013\Projects\XsiO\XsiO\bin\Debug\XsiO.pdb
+c:\users\pc\documents\visual studio 2013\Projects\XsiO\XsiO\obj\Debug\XsiO.exe
+c:\users\pc\documents\visual studio 2013\Projects\XsiO\XsiO\obj\Debug\XsiO.pdb
+C:\Users\PC\documents\visual studio 2013\Projects\XsiO\XsiO\obj\Debug\XsiO.Reguli.resources
